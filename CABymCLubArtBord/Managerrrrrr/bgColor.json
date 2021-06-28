@@ -1,0 +1,87 @@
+
+
+
+
+[
+    {
+        "thumbName": "#FFFFFF",
+        "bigName": "#FFFFFF",
+        "isPro": false
+    },
+    {
+        "thumbName": "#000000",
+        "bigName": "#000000",
+        "isPro": false
+    },
+    {
+        "thumbName": "border_1",
+        "bigName": "border_1big",
+        "isPro": false
+    },
+    {
+        "thumbName": "border_2",
+        "bigName": "border_2big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_3",
+        "bigName": "border_3big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_4",
+        "bigName": "border_4big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_5",
+        "bigName": "border_5big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_6",
+        "bigName": "border_6big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_7",
+        "bigName": "border_7big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_8",
+        "bigName": "border_8big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_9",
+        "bigName": "border_9big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_10",
+        "bigName": "border_10big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_11",
+        "bigName": "border_11big",
+        "isPro": false
+    },
+    {
+        "thumbName": "border_12",
+        "bigName": "border_12big",
+        "isPro": false
+    },
+    {
+        "thumbName": "border_13",
+        "bigName": "border_13big",
+        "isPro": true
+    },
+    {
+        "thumbName": "border_14",
+        "bigName": "border_14big",
+        "isPro": true
+    }
+]
+

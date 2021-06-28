@@ -1,0 +1,7 @@
+CABymCLubArtBord.xcodeproj/xcuserdata/
+CABymCLubArtBord.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+CABymCLubArtBord.xcodeproj/project.xcworkspace/xcuserdata/
