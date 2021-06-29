@@ -290,6 +290,8 @@ class TOolBGcolorCell: UICollectionViewCell {
         //
         userPhotoImgV.backgroundColor = .clear
         userPhotoImgV.contentMode = .scaleAspectFill
+        userPhotoImgV.layer.masksToBounds = true
+        
         contentView.addSubview(userPhotoImgV)
         userPhotoImgV.snp.makeConstraints {
             $0.center.equalToSuperview()

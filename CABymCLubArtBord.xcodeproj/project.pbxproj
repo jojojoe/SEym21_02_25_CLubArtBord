@@ -198,7 +198,6 @@
 			children = (
 				EBD72685268335EE00AD7738 /* AppDelegate.swift */,
 				EBD72687268335EE00AD7738 /* SceneDelegate.swift */,
-				EBD7269C268347C200AD7738 /* TREEfahter */,
 				EBD7269A268347AB00AD7738 /* Mainnnn */,
 			);
 			path = Lihun;
@@ -225,6 +224,7 @@
 		EBD72684268335EE00AD7738 /* CABymCLubArtBord */ = {
 			isa = PBXGroup;
 			children = (
+				EBD7269C268347C200AD7738 /* TREEfahter */,
 				EBB1324C26899E0E004E7EA7 /* Lihun */,
 				EBD7269B268347BD00AD7738 /* Managerrrrrr */,
 				EBD72699268347A200AD7738 /* Root */,
@@ -733,7 +733,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.xinyu.test.888888;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -758,7 +758,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.xinyu.test.888888;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
